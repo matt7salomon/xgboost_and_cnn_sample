@@ -1,22 +1,3 @@
 # xgboost_and_cnn_sample
 
-Analyze the attached training and testing datasets related to Kaggle's airline passenger satisfaction data.
 
-We would like you to build a ML model that can predict passenger satisfaction as well as possible, given the predictors available. You are responsible for ALL phases of building this model, from data cleaning, to feature engineering, to building/training/testing/evaluating your model. You can use any programming languages, libraries and tools that you like. You are expected to document the following:
-
--data cleaning
--feature engineering
--model selection
--model training, testing and validation
--any alternative models/algorithms that could have been used
--model performance
--prediction explainability
--visualizations and reporting based on model predictions
-
-When generating the visualizations and reporting, please consider the different types of stakeholders you think might be looking at the model results. Consider the kinds of questions that stakeholders might ask you while you work on this.
-
-The assignment will be due on Friday, April 29 at 12:00PM MT. Please email your solution to jpartyka@xactlycorp.com and rapatel@xactlycorp.com by that time. If your solution does not arrive by that time, it will not be accepted.
-
-Also, note that since it is possible to download notebooks representing solutions to this problem, we will be checking your solution for uniqueness - if we deem the solution to be very similar to a notebook that has already been posted by others on Kaggle, that will be taken into consideration while we are evaluating.
-
-If you are unable to finish, that is ok - in that case, send us whatever you were able to get done in the allotted timeframe.
